@@ -1,2 +1,2 @@
 # devportal
-Developer Portal code snippets
+Developer Portal code snippets and example data.
