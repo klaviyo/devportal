@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Products>
+  <Product>
+    <id>KLAVIYO-TSHIRT1</id>
+    <title>Classic Klaviyo T-Shirt 1</title>
+    <link>https://klaviyogear.myshopify.com/collections/klaviyo-classics/products/short-sleeve-t-shirt-1</link>
+    <description>Standard issue for all Klaviyos. This t-shirt has the Klaviyo logo on the front and mark diagram on the back.</description>
+    <price>10</price>
+    <image_link>https://www.klaviyo.com/media/images/examples/products/klaviyo-tshirt-thumbnail.png</image_link>
+    <categories>apparel,t-shirt,new-arrival,swag</categories>
+    <inventory_quantity>25</inventory_quantity>
+    <inventory_policy>1</inventory_policy>
+  </Product>
+  <Product>
+    <id>KLAVIYO-TSHIRT2</id>
+    <title>Classic Klaviyo T-Shirt 1</title>
+    <link>https://klaviyogear.myshopify.com/collections/klaviyo-classics/products/short-sleeve-t-shirt-1</link>
+    <description>Standard issue for all Klaviyos. This t-shirt has the Klaviyo logo on the front and mark diagram on the back.</description>
+    <price>10</price>
+    <image_link>https://www.klaviyo.com/media/images/examples/products/klaviyo-tshirt-thumbnail.png</image_link>
+    <categories>apparel,t-shirt,new-arrival,swag</categories>
+    <inventory_quantity>30</inventory_quantity>
+    <inventory_policy>1</inventory_policy>
+  </Product>
+  <Product>
+    <id>KLAVIYO-TSHIRT3</id>
+    <title>Classic Klaviyo T-Shirt 1</title>
+    <link>https://klaviyogear.myshopify.com/collections/klaviyo-classics/products/short-sleeve-t-shirt-1</link>
+    <description>Standard issue for all Klaviyos. This t-shirt has the Klaviyo logo on the front and mark diagram on the back.</description>
+    <price>10</price>
+    <image_link>https://www.klaviyo.com/media/images/examples/products/klaviyo-tshirt-thumbnail.png</image_link>
+    <categories>apparel,t-shirt,new-arrival,swag</categories>
+    <inventory_quantity>0</inventory_quantity>
+    <inventory_policy>1</inventory_policy>
+  </Product>
+</Products>
